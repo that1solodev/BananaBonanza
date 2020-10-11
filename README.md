@@ -8,4 +8,4 @@ And be careful to not jump off the cliff.
 
 ![Game](ScreenShots/game1.PNG "Game")
 
-All artworks and sounds are also donw by me
+All artworks and sounds are also done by me
