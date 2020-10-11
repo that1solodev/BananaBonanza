@@ -1,6 +1,8 @@
 # BananaBonanza
 Banana Catcher game in Unity
 
-![MainMenu](BananaBonanza/ScreenShots/menu1.png "Main Menu")
+![MainMenu](ScreenShots/menu1.PNG "Main Menu")
 
-![Game](BananaBonanza/ScreenShots/game1.png "Game")
+![Game](ScreenShots/game1.PNG "Game")
+
+All artworks and sounds are also donw by me
