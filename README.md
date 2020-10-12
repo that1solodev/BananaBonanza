@@ -1,5 +1,5 @@
 # BananaBonanza
-Banana Catcher game in Unity
+2D Platformer Game using Unity3d
 
 Catch the banana to get points, but dont get hit by the B0MB, you only have 3 lives.
 And be careful to not jump off the cliff.
